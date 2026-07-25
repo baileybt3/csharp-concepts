@@ -1,4 +1,9 @@
-﻿namespace _004_CharAndStrings
+﻿/*
+ * - Char and Strings
+ * - Brandon B
+ * - 07/23/2026
+ */
+namespace _004_CharAndStrings
 {
     internal class Program
     {
