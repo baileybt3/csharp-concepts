@@ -9,7 +9,7 @@ int userNum = int.Parse(Console.ReadLine());
 
 int[] sumList = new int[userNum];
 
-Console.WriteLine($"\nFinal Sum: {GetSum(userNum, sumList)}");
+Console.WriteLine($"\nFinal Sum: { GetSum(userNum, sumList) }");
 
 int GetSum(int userNum, int[] sumList)
 {
