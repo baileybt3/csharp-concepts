@@ -3,7 +3,7 @@
  * Brandon Bailey   
  * 08/22/2026
  */
-namespace _020_AccessimgElements
+namespace _020_AccessingElements
 {
     internal class Program
     {
@@ -36,7 +36,7 @@ namespace _020_AccessimgElements
 
             if(userInput == "n")
             {
-                Console.WriteLine("No worries! Let's review the code again. Goodbye!");
+                Console.WriteLine("Goodbye!");
             }
             
 
